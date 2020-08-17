@@ -1,2 +1,2 @@
 # DDoS-Attack-Detection
-Six well-known classification models are used to detect a DDoS (Distributed Denial of Service) attack. A comparative study is made to select the best ML algo to detect the attack. Further TPOT ( Python Automated Machine Learning tool). 
+Six well-known classification models are used to detect a DDoS (Distributed Denial of Service) attack. A comparative study is made to select the best ML algo to detect the attack. Further TPOT(Tree based optimization tool) is used to optimize the result. The reason why this library is unique is that it automates the entire Machine Learning pipeline and provides you with the best performing machine learning model.
