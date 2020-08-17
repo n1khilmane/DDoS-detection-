@@ -11,3 +11,4 @@ Six well-known classification models are used to detect a DDoS (Distributed Deni
 |Random Forest| 98.07% |
 |Stochastic Gradient Descent | 98.55% |
 
+![ROC Curve](https://user-images.githubusercontent.com/31525500/90432357-08a09e80-e0e8-11ea-83ad-2dc29da2241e.png)
